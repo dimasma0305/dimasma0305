@@ -11,4 +11,4 @@
 
 
 ![Dimas Stats](https://github-readme-stats.vercel.app/api?username=dimasma0305&show_icons=true&theme=tokyonight&hide_border=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp;card_width=400&hide_border=truedark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp&hide_border=truedark">
