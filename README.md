@@ -9,6 +9,3 @@
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=dark&amp;layout=compact&amp;card_width=445&hide_border=truedark&icon_color=fad000">
-<img src="https://github-readme-stats.vercel.app/api?username=dimasma0305&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000&">
-
