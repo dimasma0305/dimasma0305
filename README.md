@@ -9,6 +9,4 @@
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
 
-
-![Dimas Stats](https://github-readme-stats.vercel.app/api?username=dimasma0305&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp&hide_border=truedark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp&hide_border=truedark">
