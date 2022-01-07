@@ -8,4 +8,7 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=dark&amp;layout=compact&amp;card_width=445&hide_border=truedark&icon_color=fad000">
+
+
+![Dimas Stats](https://github-readme-stats.vercel.app/api?username=dimasma0305&show_icons=true&theme=tokyonight&hide_border=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp;card_width=400&hide_border=truedark">
