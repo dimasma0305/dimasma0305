@@ -9,16 +9,14 @@
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
 
-### 👉 &nbsp;Programming languages
-<p align="center"> 
-  &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  &emsp;
-  
+<p align="right">
+  <a>
+    <img width=400px height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
+  </a>
 </p>
 
 #### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-Dimas%20Maulana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimasmaulana0305@gmail.com"><img src="https://img.shields.io/badge/-dimasmaulana0305@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://web.facebook.com/dimas.ma.id"><img src="https://img.shields.io/badge/-@dimas.ma.id-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
