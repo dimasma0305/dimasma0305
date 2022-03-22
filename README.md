@@ -9,8 +9,6 @@
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&amp;theme=tokyonight&amp;layout=compact&amp&hide_border=truedark">
-
 #### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-Dimas%20Maulana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
