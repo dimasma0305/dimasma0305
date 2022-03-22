@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
-<img align="right" width=400px height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
+<img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
 
 #### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
