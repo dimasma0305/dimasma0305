@@ -3,8 +3,8 @@
 
 **About Me!**
 - 👨🏽‍💻 I am currently a student of SMKN 1 Denpasar.
-- 🌱 I'm currently exploring cloud computing and cloud services, especially services on AWS.
-- 🤔 My interest lies in devops and cyber security.
+- 🌱 I'm currently exploring binary exploitation and crypto exploitation.
+- 🤔 My interest lies in linux OS and cyber security.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
