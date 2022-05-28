@@ -3,7 +3,7 @@
 
 **About Me!**
 - 👨🏽‍💻 I am currently a student of Politeknik Negeri Bali.
-- 🌱 I'm currently exploring binary exploitation and crypto exploitation.
+- 🌱 I'm currently exploring cyber security and computer science.
 - 🤔 My interest lies in linux OS and cyber security.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
