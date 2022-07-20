@@ -14,5 +14,5 @@
 <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-Dimas%20Maulana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dimasmaulana0305@gmail.com"><img src="https://img.shields.io/badge/-dimasmaulana0305@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://web.facebook.com/dimas.ma.id"><img src="https://img.shields.io/badge/-@dimas.ma.id-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC0tYXNv_oocoMoy5NIARG0A/videos"><img src="https://img.shields.io/youtube/channel/subscribers/UC0tYXNv_oocoMoy5NIARG0A?label=DimasWiki&style=social">
+<a href="https://www.codewars.com/users/dimasma0305"><img src="https://www.codewars.com/users/dimasma0305/badges/small">
 </p>
