@@ -3,17 +3,12 @@
 
 **About Me!**
 <br>
-<p>🌱 I'm currently exploring cyber security and computer science.</p>
-<p>🤔 My interest lies in linux OS and cyber security.</p>
-<p>💬 Ask me about anything, I love to answer!</p>
-<p>📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).</p>
+- 🌱 I'm currently exploring cyber security and computer science.
+- 🤔 My interest lies in linux OS and cyber security.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
 <br>
 <img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 #### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
