@@ -2,12 +2,18 @@
 <img align="left" width=350px height=197px src="https://4.bp.blogspot.com/-G62v5yEBEFw/Wkh2kTr1t0I/AAAAAAAAChw/hIhhuFghCPcQ5rQ0sV_9CWWJ8dQT5sLUACLcBGAs/s400/TypingonComputer.gif" style="max-width: 100%;">
 
 **About Me!**
-- 🌱 I'm currently exploring cyber security and computer science.
-- 🤔 My interest lies in linux OS and cyber security.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
+<br>
+<p>🌱 I'm currently exploring cyber security and computer science.</p>
+<p>🤔 My interest lies in linux OS and cyber security.</p>
+<p>💬 Ask me about anything, I love to answer!</p>
+<p>📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).</p>
 <br>
 <img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
