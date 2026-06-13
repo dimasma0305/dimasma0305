@@ -72,8 +72,6 @@
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dimasma0305&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=60a5fa&area=true&hide_border=true" alt="activity graph"/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=dimasma0305&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
 </div>
 
 ## 🐍 Contribution Snake
