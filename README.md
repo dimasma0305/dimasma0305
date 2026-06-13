@@ -33,6 +33,14 @@
 - ✍️ I write writeups and tutorials on [my blog](https://dimasc.tf/blog).
 - 📫 Reach me at **dimasmaulana0305@gmail.com**.
 
+## 💼 Work With Me
+
+> **🔐 Source Code Security Review** — I run an AI-assisted review over your codebase, triage the bugs that are *actually* exploitable, and hand back ready-to-merge fixes with a plain-English report. From **$99 / project**.
+
+<a href="https://dimasc.tf/services">
+  <img src="https://img.shields.io/badge/View%20service%20%26%20pricing%20%E2%86%92-3B82F6?style=for-the-badge&labelColor=0f172a" alt="View service and pricing"/>
+</a>
+
 ## 🛠️ Tech &amp; Tools
 
 <p>
