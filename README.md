@@ -12,7 +12,11 @@
 </a>
 
 <p>
-  <a href="https://dimasma0305.github.io"><img src="https://img.shields.io/badge/Portfolio-dimasma0305.github.io-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/dimasma0305"><img src="https://img.shields.io/github/followers/dimasma0305?label=Follow&style=social" alt="Follow on GitHub"/></a>
+</p>
+
+<p>
+  <a href="https://dimasc.tf"><img src="https://img.shields.io/badge/Portfolio-dimasc.tf-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/dimasma__"><img src="https://img.shields.io/badge/X-@dimasma__-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/LinkedIn-Dimas%20Maulana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=dimasma0305&label=Profile%20views&color=3b82f6&style=flat-square" alt="Profile views"/>
@@ -26,7 +30,7 @@
 - 🧩 I build **CTF challenges**, security tools, and the occasional exploit.
 - 🐧 Living in the terminal: deep into **Linux** and **web security**.
 - 🤖 Lately: **AI-assisted source-code security review** — find the real bugs, ship the fixes.
-- ✍️ I write writeups and tutorials on [my blog](https://dimasma0305.github.io/blog).
+- ✍️ I write writeups and tutorials on [my blog](https://dimasc.tf/blog).
 - 📫 Reach me at **dimasmaulana0305@gmail.com**.
 
 ## 🛠️ Tech &amp; Tools
@@ -41,6 +45,21 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/dimasma0305/Cyber-Security-Learning-Resources"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=Cyber-Security-Learning-Resources&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="Cyber-Security-Learning-Resources"/></a>
+<a href="https://github.com/dimasma0305/wp-taint-scan"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=wp-taint-scan&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="wp-taint-scan"/></a>
+
+<a href="https://github.com/dimasma0305/CTF-XSS-BOT"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=CTF-XSS-BOT&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="CTF-XSS-BOT"/></a>
+<a href="https://github.com/dimasma0305/ctfify"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=ctfify&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="ctfify"/></a>
+
+<a href="https://github.com/dimasma0305/VWA-Wazuh"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=VWA-Wazuh&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="VWA-Wazuh"/></a>
+<a href="https://github.com/dimasma0305/My-CTF-Challenges"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dimasma0305&repo=My-CTF-Challenges&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="My-CTF-Challenges"/></a>
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -73,12 +92,12 @@
 
 I post **CTF writeups**, **vulnerability research**, and **security tutorials** on my blog.
 
-➡️ Read them at **[dimasma0305.github.io/blog](https://dimasma0305.github.io/blog)**
+➡️ Read them at **[dimasc.tf/blog](https://dimasc.tf/blog)**
 
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://dimasma0305.github.io"><img src="https://img.shields.io/badge/-Portfolio-3B82F6?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://dimasc.tf"><img src="https://img.shields.io/badge/-Portfolio-3B82F6?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:dimasmaulana0305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/dimasma__"><img src="https://img.shields.io/badge/-X-0f172a?style=flat&logo=x&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
