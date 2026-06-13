@@ -69,17 +69,11 @@
 
 </div>
 
-## ✍️ Latest Blog Posts
+## ✍️ Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Home - Dimas Maulana&#39;s Blog](https://dimasma0305.github.io)
-- [Blog - All Posts](https://dimasma0305.github.io/blog)
-- [Categories - Browse by Topic](https://dimasma0305.github.io/categories)
-- [Search - Find Content](https://dimasma0305.github.io/search)
-- [Tools - Utilities](https://dimasma0305.github.io/tools)
-<!-- BLOG-POST-LIST:END -->
+I post **CTF writeups**, **vulnerability research**, and **security tutorials** on my blog.
 
-➡️ More on [dimasma0305.github.io/blog](https://dimasma0305.github.io/blog)
+➡️ Read them at **[dimasma0305.github.io/blog](https://dimasma0305.github.io/blog)**
 
 ## 🤝 Connect with Me
 
