@@ -1,19 +1,90 @@
+<div align="center">
 
-<img align="left" width=350px height=197px src="https://4.bp.blogspot.com/-G62v5yEBEFw/Wkh2kTr1t0I/AAAAAAAAChw/hIhhuFghCPcQ5rQ0sV_9CWWJ8dQT5sLUACLcBGAs/s400/TypingonComputer.gif" style="max-width: 100%;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.png">
+  <img src="./logo-light.png" width="116" alt="Dimas Maulana logo">
+</picture>
 
-**About Me!**
-<br>
-- 🌱 I'm currently exploring cyber security and computer science.
-- 🤔 My interest lies in linux OS and cyber security.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [dimasmaulana0305@gmail.com](mailto:dimasmaulana0305@gmail.com).
-<br>
-<img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=dimasma0305#version3"/>
+# Hi, I'm Dimas Maulana 👋
 
-#### 🤝🏻 &nbsp;Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-Dimas%20Maulana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dimasmaulana0305@gmail.com"><img src="https://img.shields.io/badge/-dimasmaulana0305@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://web.facebook.com/dimas.ma.id"><img src="https://img.shields.io/badge/-@dimas.ma.id-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/dimasma0305"><img src="https://www.codewars.com/users/dimasma0305/badges/small">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Cybersecurity+Researcher;CTF+Player+%26+Challenge+Author;Source+Code+Pentester;Linux+%26+Web+Security+Enthusiast" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://dimasma0305.github.io"><img src="https://img.shields.io/badge/Portfolio-dimasma0305.github.io-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://twitter.com/dimasma__"><img src="https://img.shields.io/badge/X-@dimasma__-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/LinkedIn-Dimas%20Maulana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=dimasma0305&label=Profile%20views&color=3b82f6&style=flat-square" alt="Profile views"/>
 </p>
+
+</div>
+
+## 🧑‍💻 About Me
+
+- 🔐 Cybersecurity researcher and **CTF player** — I break things to understand how to secure them.
+- 🧩 I build **CTF challenges**, security tools, and the occasional exploit.
+- 🐧 Living in the terminal: deep into **Linux** and **web security**.
+- 🤖 Lately: **AI-assisted source-code security review** — find the real bugs, ship the fixes.
+- ✍️ I write writeups and tutorials on [my blog](https://dimasma0305.github.io/blog).
+- 📫 Reach me at **dimasmaulana0305@gmail.com**.
+
+## 🛠️ Tech &amp; Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,go,bash,linux,docker,kubernetes,aws,react,nodejs,nextjs,mysql,postgres,mongodb,sqlite,git,github&theme=dark&perline=10" alt="skills"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dimasma0305&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasma0305&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top languages"/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=dimasma0305&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9&stroke=3B82F6" alt="streak"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dimasma0305&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=60a5fa&area=true&hide_border=true" alt="activity graph"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=dimasma0305&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimasma0305/dimasma0305/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimasma0305/dimasma0305/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/dimasma0305/dimasma0305/output/github-snake.svg">
+</picture>
+
+</div>
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ More on [dimasma0305.github.io/blog](https://dimasma0305.github.io/blog)
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://dimasma0305.github.io"><img src="https://img.shields.io/badge/-Portfolio-3B82F6?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:dimasmaulana0305@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/dimasma__"><img src="https://img.shields.io/badge/-X-0f172a?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dimas-maulana-990329223/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://web.facebook.com/dimas.ma.id"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.codewars.com/users/dimasma0305"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
+</p>
+
+<div align="center"><sub>⚡ "Know your system better than the attacker does."</sub></div>
