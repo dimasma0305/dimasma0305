@@ -111,4 +111,4 @@ I post **CTF writeups**, **vulnerability research**, and **security tutorials** 
   <a href="https://www.codewars.com/users/dimasma0305"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
 </p>
 
-<div align="center"><sub>⚡ "Know your system better than the attacker does."</sub></div>
+<div align="center"><sub>💭 <i>"No pain lasts forever, and no joy stays forever."</i></sub></div>
