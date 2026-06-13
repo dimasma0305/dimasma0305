@@ -72,6 +72,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Home - Dimas Maulana&#39;s Blog](https://dimasma0305.github.io)
+- [Blog - All Posts](https://dimasma0305.github.io/blog)
+- [Categories - Browse by Topic](https://dimasma0305.github.io/categories)
+- [Search - Find Content](https://dimasma0305.github.io/search)
+- [Tools - Utilities](https://dimasma0305.github.io/tools)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [dimasma0305.github.io/blog](https://dimasma0305.github.io/blog)
